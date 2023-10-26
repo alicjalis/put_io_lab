@@ -9,9 +9,9 @@ public class Osoba {
         this.nazwisko = nazwisko;
         this.wiek = wiek;
     }
-
+// zmiana nr 2
     public void wyswietlInformacje() {
-        System.out.println("Imię: " + imie);
+        System.out.println("Imie " + imie);
         System.out.println("Nazwisko: " + nazwisko);
         System.out.println("Wiek: " + wiek);
     }
