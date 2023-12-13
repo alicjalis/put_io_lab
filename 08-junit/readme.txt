@@ -9,7 +9,7 @@ Pytanie 4.2
 JUnit oczekuje na rzucenie AssertionError.
 
 Pytanie 5.1
-Jest to typ whiebox
+Jest to typ whitebox
 
 Pytanie 5.2
 Można zidentyfikować 4 różne ścieżki
